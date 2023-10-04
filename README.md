@@ -4,3 +4,4 @@
 [Лаборатнорая работа 1](number1/README.md)
 [Лабораторная работа 2](number2/README.md)
 [Лабораторная работа 3](number3/README.md)
+[Лабораторная работа 4](number4/README.md)

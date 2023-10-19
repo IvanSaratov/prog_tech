@@ -2,4 +2,5 @@
 
 ### Практикум 2 (7-й семестр)
 
-* [Практикум 1. SQLite]()
+* [Практикум 1. SQLite](pract2/lab1/README.md)
+* [Практикум 2. ООП](pract2/lab2/README.md)

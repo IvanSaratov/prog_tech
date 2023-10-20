@@ -4,3 +4,4 @@
 
 * [Практикум 1. SQLite](pract2/lab1/README.md)
 * [Практикум 2. ООП](pract2/lab2/README.md)
+* [Лабораторная работа 1. Визуальное проектирование В С#](pract2/lab3/README.md)

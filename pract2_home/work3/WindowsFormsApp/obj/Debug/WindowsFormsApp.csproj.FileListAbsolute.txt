@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\user\Desktop\python\Универ-backup-04.08.2022\Технологии программирования\2 семестр 4 курс\ЛАБОРАТОРНАЯ 3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Comp\Downloads\Сиденко. Лабораторная 3\Task3\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
